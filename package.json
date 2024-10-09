@@ -1,9 +1,9 @@
 {
-  "name": "FoodHut",
+  "name": "herreria-pergolas",
   "version": "1.5.0",
-  "description": "An elegant responsive bootstrap 4.x theme.",
+  "description": "Herreria pergolas, expertos en hierro forjado, herreria artistica, herreria contemporanea, herreria moderna, herreria minimalista, herreria clasica, herreria colonial, herreria rustica, herreria industrial, herreria de lujo, herreria de diseño",
   "main": "gulpfile.js",
-  "author": "DevCRUD",
+  "author": "tomisteven",
   "scripts": {
     "start": "gulp"
   },
